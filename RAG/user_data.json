@@ -1,0 +1,20 @@
+{
+    "user_responses": {
+        "Is this a single person application or are you a partnership? i.e married, civil partnership or living together.": "I am married.",
+        "Are you a first-time buyer?": "Yes, I am a first-time buyer.",
+        "Please can you give me your date of birth and your partner's, if applicable.": "My date of birth is 15/05/1990",
+        "Are you in employment?": "Yes, I am in employment.",
+        "If yes, please specify if you are employed or self-employed?": "I am employed.",
+        "How much do you earn per year, gross pay before tax and NI, also include any commission, bonus, overtime and any other income sources.": "My annual gross income is 30,000 pounds, which includes a bonus of 2,000 pounds and overtime of 1,000 pounds.",
+        "Please can you tell me if you have any credit commitments, if yes please list them, examples are credit cards, loans or even other mortgage payments and pensions.": "Yes, I have credit commitments. My credit commitments are credit card: 5,000 pounds, loan: 10,000 pounds.",
+        "How many dependants do you have, if any?": "I have 2 dependants.",
+        "If you have adverse credit, please tell me what it is?": "I have adverse credit. My adverse credit is missed payments.",
+        "Do you have an existing property that you plan to sell to support your new mortgage? If yes \u00e2\u20ac\u201c what is it worth, how much do you have outstanding on the mortgage and what do you hope to sell it for?": "Yes, I plan to sell my existing property. The property\u2019s value is 200,000 pounds, the outstanding mortgage is 100,000 pounds, and I hope to sell it for 220,000 pounds.",
+        "Finally, what is your committed expenditure. Examples are maintenance, school fees & nursery costs.": "My committed expenditure is 500 pounds, which includes maintenance: 200 pounds, school fees: 250 pounds, nursery costs: 50 pounds."
+    },
+    "summary": "You are a married, first-time buyer born on 15/05/1990, currently in employment with an annual gross income of \u00a330,000, including a \u00a32,000 bonus and \u00a31,000 overtime. You have credit commitments, namely a \u00a35,000 credit card balance and a \u00a310,000 loan. You also have two dependents and have experienced some adverse credit due to missed payments.\n\nYou are planning to sell your existing property, which is valued at \u00a3200,000, with an outstanding mortgage of \u00a3100,000, and you hope to sell it for \u00a3220,000. Your monthly committed expenses, including maintenance, school fees, and nursery costs, amount to \u00a3500.\n\nMy advice is to address your missed payments to improve your credit score, which will help you secure better mortgage terms. Also, consider paying off some of your credit card balance to lower your credit utilization ratio. Once you sell your existing property, use the profit to reduce your loan amount. This will free up more income to cover your mortgage payments and other expenses. It's also important to factor in any potential changes to your income or expenses in the near future, especially since you have dependents.",
+    "contact_info": {
+        "email": "hossainrrr@gmail.com",
+        "phone": "01864809115"
+    }
+}
